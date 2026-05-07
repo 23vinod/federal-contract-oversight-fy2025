@@ -1,9 +1,10 @@
----
-
-## Data Source
-Download FY2025 contract data from [USASpending.gov](https://www.usaspending.gov)  
-Agencies: DoD (097), DHS (070), HHS (075)
-
----
-
-## Requirements
+pandas
+numpy
+scikit-learn
+xgboost
+hdbscan
+shap
+matplotlib
+seaborn
+imbalanced-learn
+jupyter
